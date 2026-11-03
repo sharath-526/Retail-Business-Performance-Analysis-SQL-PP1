@@ -86,7 +86,13 @@ The project uses six CSV files:
 - `Screenshots/` – Selected query outputs and database screenshots.
 - `ER Diagram (Retail Analytics).png` – Database relationship diagram.
 
-## 8. Project Note
+- ## 8. Database Schema
+
+The following ER diagram shows the six tables and their relationships.
+
+![Retail Analytics ER Diagram](ER%20Diagram%20%28Retail%20Analytics%29.png)
+
+## 9. Project Note
 
 This is a self-learning practice project using synthetic, AI-generated data. The analysis demonstrates my SQL practice and understanding of retail business questions. It is not based on real company data.
 
