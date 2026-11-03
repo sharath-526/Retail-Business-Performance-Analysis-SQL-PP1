@@ -86,9 +86,9 @@ The project uses six CSV files:
 - `Screenshots/` – Selected query outputs and database screenshots.
 - `ER Diagram (Retail Analytics).png` – Database relationship diagram.
 
-- ## 8. Database Schema
+## 8. Database Schema
 
-The following ER diagram shows the six tables and their relationships.
+The ER diagram below shows the six database tables and their relationships.
 
 ![Retail Analytics ER Diagram](ER%20Diagram%20%28Retail%20Analytics%29.png)
 
