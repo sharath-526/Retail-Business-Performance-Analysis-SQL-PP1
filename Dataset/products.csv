@@ -1,0 +1,301 @@
+product_id,product_name,category,subcategory,unit_cost,unit_price,launch_date,product_status
+1,Mobiles Product 01,Electronics,Mobiles,10874.41,13754.74,2022-04-15,Active
+2,Audio Product 02,Electronics,Audio,17260.52,28673.1,2025-04-23,Active
+3,Computers Product 03,Electronics,Computers,6077.11,10768.87,2025-04-11,Discontinued
+4,Accessories Product 04,Electronics,Accessories,9512.75,13647.68,2025-07-19,Discontinued
+5,Mobiles Product 05,Electronics,Mobiles,6082.7,8992.28,2024-05-13,Discontinued
+6,Accessories Product 06,Electronics,Accessories,7932.39,13690.05,2025-10-18,Active
+7,Audio Product 07,Electronics,Audio,16343.45,28292.05,2022-09-05,Discontinued
+8,Mobiles Product 08,Electronics,Mobiles,7661.39,9504.32,2023-10-13,Active
+9,Audio Product 09,Electronics,Audio,2019.36,2376.08,2022-01-07,Active
+10,Computers Product 10,Electronics,Computers,14585.04,24810.32,2024-11-27,Discontinued
+11,Audio Product 11,Electronics,Audio,8371.43,12534.44,2022-09-06,Discontinued
+12,Mobiles Product 12,Electronics,Mobiles,2561.42,3632.34,2023-12-17,Discontinued
+13,Accessories Product 13,Electronics,Accessories,1092.95,1554.81,2024-12-04,Active
+14,Mobiles Product 14,Electronics,Mobiles,4312.45,5987.58,2024-01-10,Active
+15,Mobiles Product 15,Electronics,Mobiles,7254.32,12315.09,2022-08-19,Active
+16,Computers Product 16,Electronics,Computers,2879.38,4798.07,2025-10-28,Discontinued
+17,Computers Product 17,Electronics,Computers,10651.99,17182.42,2022-04-07,Discontinued
+18,Computers Product 18,Electronics,Computers,12052.55,18590.92,2023-05-03,Active
+19,Accessories Product 19,Electronics,Accessories,11643.8,14105.68,2025-03-06,Active
+20,Audio Product 20,Electronics,Audio,17083.77,24763.19,2024-07-09,Discontinued
+21,Mobiles Product 21,Electronics,Mobiles,745.01,1337.25,2023-08-06,Discontinued
+22,Computers Product 22,Electronics,Computers,7492.45,9647.87,2022-02-28,Active
+23,Accessories Product 23,Electronics,Accessories,11737.46,14162.74,2024-10-01,Active
+24,Accessories Product 24,Electronics,Accessories,5737.89,9905.91,2023-03-21,Active
+25,Audio Product 25,Electronics,Audio,8018.36,10794.62,2026-01-27,Active
+26,Accessories Product 26,Electronics,Accessories,15147.49,18764.61,2022-01-28,Active
+27,Computers Product 27,Electronics,Computers,4482.22,5853.91,2022-05-06,Active
+28,Computers Product 28,Electronics,Computers,1993.1,2768.82,2022-07-09,Discontinued
+29,Audio Product 29,Electronics,Audio,15954.48,26283.48,2023-12-16,Active
+30,Mobiles Product 30,Electronics,Mobiles,2898.75,3603.65,2026-02-21,Active
+31,Audio Product 31,Electronics,Audio,7308.28,11666.14,2024-08-30,Active
+32,Computers Product 32,Electronics,Computers,14146.23,17821.51,2023-12-12,Active
+33,Audio Product 33,Electronics,Audio,15688.99,20144.91,2025-11-25,Active
+34,Mobiles Product 34,Electronics,Mobiles,15278.51,27458.28,2022-01-27,Active
+35,Audio Product 35,Electronics,Audio,13411.22,18331.87,2022-07-22,Active
+36,Computers Product 36,Electronics,Computers,9975.72,15097.57,2024-01-10,Active
+37,Audio Product 37,Electronics,Audio,11997.8,18178.2,2025-10-17,Active
+38,Accessories Product 38,Electronics,Accessories,14186.52,16752.9,2026-04-22,Active
+39,Accessories Product 39,Electronics,Accessories,11869.2,14373.61,2023-11-16,Discontinued
+40,Mobiles Product 40,Electronics,Mobiles,1304.38,2284.13,2024-06-22,Active
+41,Audio Product 41,Electronics,Audio,14242.28,18419.19,2023-12-19,Active
+42,Audio Product 42,Electronics,Audio,17931.49,32966.51,2023-03-14,Active
+43,Audio Product 43,Electronics,Audio,15201.57,25768.76,2026-05-12,Active
+44,Audio Product 44,Electronics,Audio,14193.69,16689.8,2025-11-13,Active
+45,Accessories Product 45,Electronics,Accessories,9155.93,15113.47,2022-03-03,Active
+46,Audio Product 46,Electronics,Audio,7969.85,11710.05,2022-05-12,Discontinued
+47,Audio Product 47,Electronics,Audio,15048.75,17985.08,2022-03-21,Active
+48,Audio Product 48,Electronics,Audio,6241.64,7768.85,2025-06-29,Discontinued
+49,Audio Product 49,Electronics,Audio,13589.16,17050.27,2022-04-13,Active
+50,Accessories Product 50,Electronics,Accessories,3968.53,6796.3,2026-02-04,Active
+51,Home Decor Product 01,Home & Kitchen,Home Decor,15273.1,20623.57,2025-05-30,Active
+52,Appliances Product 02,Home & Kitchen,Appliances,770.38,1065.18,2025-07-20,Discontinued
+53,Furniture Product 03,Home & Kitchen,Furniture,3078.69,5033.93,2025-08-01,Active
+54,Home Decor Product 04,Home & Kitchen,Home Decor,760.02,996.98,2026-05-17,Active
+55,Home Decor Product 05,Home & Kitchen,Home Decor,5189.66,8196.25,2022-11-23,Active
+56,Furniture Product 06,Home & Kitchen,Furniture,8941.15,14944.42,2023-06-14,Active
+57,Appliances Product 07,Home & Kitchen,Appliances,12723.24,23127.79,2024-03-18,Discontinued
+58,Cookware Product 08,Home & Kitchen,Cookware,2735.77,5049.69,2024-04-29,Active
+59,Appliances Product 09,Home & Kitchen,Appliances,8780.81,15050.03,2022-11-28,Active
+60,Home Decor Product 10,Home & Kitchen,Home Decor,5656.84,10247.74,2025-03-03,Discontinued
+61,Furniture Product 11,Home & Kitchen,Furniture,16948.27,22951.84,2024-06-01,Discontinued
+62,Appliances Product 12,Home & Kitchen,Appliances,16648.14,27996.9,2024-06-07,Active
+63,Furniture Product 13,Home & Kitchen,Furniture,13523.16,17703.59,2022-12-13,Active
+64,Cookware Product 14,Home & Kitchen,Cookware,10483.73,15038.64,2024-12-21,Active
+65,Appliances Product 15,Home & Kitchen,Appliances,4627.27,6306.8,2022-04-01,Active
+66,Appliances Product 16,Home & Kitchen,Appliances,13677.32,17194.31,2025-06-19,Discontinued
+67,Cookware Product 17,Home & Kitchen,Cookware,15778.64,28238.73,2024-09-23,Active
+68,Cookware Product 18,Home & Kitchen,Cookware,9358.85,16813.14,2022-10-20,Active
+69,Appliances Product 19,Home & Kitchen,Appliances,2365.61,3327.55,2026-02-18,Discontinued
+70,Appliances Product 20,Home & Kitchen,Appliances,1701.26,2476.04,2025-06-07,Active
+71,Cookware Product 21,Home & Kitchen,Cookware,16262.95,26537.87,2025-01-22,Active
+72,Appliances Product 22,Home & Kitchen,Appliances,16882.68,20665.86,2023-12-04,Discontinued
+73,Appliances Product 23,Home & Kitchen,Appliances,11705.71,17235.69,2026-02-28,Active
+74,Home Decor Product 24,Home & Kitchen,Home Decor,16298.04,24198.24,2025-11-24,Active
+75,Home Decor Product 25,Home & Kitchen,Home Decor,939.76,1443.68,2023-05-27,Active
+76,Appliances Product 26,Home & Kitchen,Appliances,6618.77,8995.17,2024-06-14,Active
+77,Home Decor Product 27,Home & Kitchen,Home Decor,11481.4,17887.35,2024-11-29,Active
+78,Furniture Product 28,Home & Kitchen,Furniture,6662.16,11515.44,2024-07-02,Active
+79,Cookware Product 29,Home & Kitchen,Cookware,7691.41,12446.9,2022-03-14,Discontinued
+80,Appliances Product 30,Home & Kitchen,Appliances,669.15,1151.48,2025-10-07,Active
+81,Furniture Product 31,Home & Kitchen,Furniture,15475.86,23877.93,2024-12-05,Active
+82,Home Decor Product 32,Home & Kitchen,Home Decor,2846.24,5166.89,2026-05-11,Active
+83,Furniture Product 33,Home & Kitchen,Furniture,14391.63,19826.29,2022-02-05,Active
+84,Home Decor Product 34,Home & Kitchen,Home Decor,13320.95,22996.52,2026-05-06,Active
+85,Appliances Product 35,Home & Kitchen,Appliances,3096.75,4734.94,2024-01-25,Discontinued
+86,Home Decor Product 36,Home & Kitchen,Home Decor,16336.0,21217.91,2025-03-12,Active
+87,Cookware Product 37,Home & Kitchen,Cookware,1380.51,1980.38,2022-07-10,Active
+88,Cookware Product 38,Home & Kitchen,Cookware,2962.07,5289.84,2024-09-20,Active
+89,Appliances Product 39,Home & Kitchen,Appliances,12729.07,15711.48,2023-07-27,Active
+90,Cookware Product 40,Home & Kitchen,Cookware,16012.41,24783.23,2024-04-11,Active
+91,Furniture Product 41,Home & Kitchen,Furniture,6326.71,7785.65,2024-04-08,Active
+92,Appliances Product 42,Home & Kitchen,Appliances,17679.33,29916.11,2023-12-27,Active
+93,Home Decor Product 43,Home & Kitchen,Home Decor,1174.68,1885.23,2024-06-04,Active
+94,Appliances Product 44,Home & Kitchen,Appliances,11010.26,16702.67,2024-11-21,Active
+95,Home Decor Product 45,Home & Kitchen,Home Decor,6854.37,8384.99,2022-05-13,Discontinued
+96,Appliances Product 46,Home & Kitchen,Appliances,12735.93,17109.04,2022-12-10,Discontinued
+97,Home Decor Product 47,Home & Kitchen,Home Decor,1971.74,3232.45,2024-10-14,Active
+98,Cookware Product 48,Home & Kitchen,Cookware,11557.04,16343.65,2023-10-14,Active
+99,Appliances Product 49,Home & Kitchen,Appliances,17035.12,27926.51,2025-03-20,Discontinued
+100,Furniture Product 50,Home & Kitchen,Furniture,8018.61,12466.42,2024-06-23,Active
+101,Footwear Product 01,Fashion,Footwear,11237.98,14309.11,2024-08-01,Discontinued
+102,Men's Wear Product 02,Fashion,Men's Wear,6767.75,9462.95,2023-03-21,Active
+103,Footwear Product 03,Fashion,Footwear,12025.95,19688.03,2022-05-09,Discontinued
+104,Footwear Product 04,Fashion,Footwear,1374.27,2197.28,2025-11-04,Active
+105,Footwear Product 05,Fashion,Footwear,8724.66,10785.41,2025-01-01,Active
+106,Men's Wear Product 06,Fashion,Men's Wear,804.59,1408.98,2022-03-05,Discontinued
+107,Women's Wear Product 07,Fashion,Women's Wear,12827.18,17464.48,2025-01-20,Active
+108,Women's Wear Product 08,Fashion,Women's Wear,5755.97,9002.91,2025-02-04,Active
+109,Men's Wear Product 09,Fashion,Men's Wear,15645.98,26740.24,2024-05-19,Active
+110,Accessories Product 10,Fashion,Accessories,6792.22,9206.34,2024-07-19,Discontinued
+111,Accessories Product 11,Fashion,Accessories,12117.26,19874.9,2024-08-26,Active
+112,Accessories Product 12,Fashion,Accessories,15782.34,28942.5,2026-05-15,Active
+113,Men's Wear Product 13,Fashion,Men's Wear,13804.47,22455.27,2024-09-13,Active
+114,Footwear Product 14,Fashion,Footwear,12828.19,19816.91,2026-01-14,Active
+115,Men's Wear Product 15,Fashion,Men's Wear,803.59,1079.18,2022-03-12,Active
+116,Women's Wear Product 16,Fashion,Women's Wear,11932.32,17278.59,2022-10-24,Active
+117,Men's Wear Product 17,Fashion,Men's Wear,573.42,937.97,2022-01-27,Active
+118,Footwear Product 18,Fashion,Footwear,5615.25,8953.34,2023-06-13,Active
+119,Men's Wear Product 19,Fashion,Men's Wear,8384.14,10491.86,2024-12-29,Active
+120,Women's Wear Product 20,Fashion,Women's Wear,2595.03,4194.77,2024-01-20,Discontinued
+121,Women's Wear Product 21,Fashion,Women's Wear,11244.99,18992.78,2023-02-12,Discontinued
+122,Men's Wear Product 22,Fashion,Men's Wear,9050.64,12828.51,2023-02-03,Active
+123,Women's Wear Product 23,Fashion,Women's Wear,5266.54,6821.69,2025-07-06,Active
+124,Women's Wear Product 24,Fashion,Women's Wear,2645.66,3867.83,2025-11-29,Active
+125,Accessories Product 25,Fashion,Accessories,234.65,293.24,2023-07-18,Active
+126,Accessories Product 26,Fashion,Accessories,16750.4,25967.45,2023-09-04,Active
+127,Men's Wear Product 27,Fashion,Men's Wear,9839.37,12763.65,2022-03-30,Discontinued
+128,Accessories Product 28,Fashion,Accessories,8669.39,11184.09,2025-10-12,Active
+129,Accessories Product 29,Fashion,Accessories,201.54,321.17,2022-10-29,Discontinued
+130,Footwear Product 30,Fashion,Footwear,2609.23,3710.28,2024-02-15,Discontinued
+131,Footwear Product 31,Fashion,Footwear,13929.15,18648.4,2022-12-06,Active
+132,Men's Wear Product 32,Fashion,Men's Wear,5262.91,7440.57,2024-05-13,Active
+133,Women's Wear Product 33,Fashion,Women's Wear,12760.46,15580.96,2024-07-16,Active
+134,Women's Wear Product 34,Fashion,Women's Wear,14622.13,24123.19,2026-02-22,Active
+135,Women's Wear Product 35,Fashion,Women's Wear,3337.46,4267.07,2022-10-18,Active
+136,Footwear Product 36,Fashion,Footwear,3270.93,4508.84,2023-01-29,Discontinued
+137,Men's Wear Product 37,Fashion,Men's Wear,14467.02,21560.34,2023-11-16,Active
+138,Women's Wear Product 38,Fashion,Women's Wear,15609.01,20983.68,2024-10-15,Active
+139,Women's Wear Product 39,Fashion,Women's Wear,11690.59,17541.09,2022-05-11,Active
+140,Women's Wear Product 40,Fashion,Women's Wear,4135.69,6030.47,2023-02-04,Active
+141,Women's Wear Product 41,Fashion,Women's Wear,1247.75,1551.94,2022-04-04,Active
+142,Accessories Product 42,Fashion,Accessories,7736.18,8995.18,2025-06-11,Active
+143,Men's Wear Product 43,Fashion,Men's Wear,5871.52,8548.5,2025-10-13,Active
+144,Footwear Product 44,Fashion,Footwear,12126.54,20265.25,2025-06-18,Active
+145,Accessories Product 45,Fashion,Accessories,1394.75,2337.48,2023-07-01,Active
+146,Women's Wear Product 46,Fashion,Women's Wear,4659.24,8302.88,2025-07-10,Active
+147,Men's Wear Product 47,Fashion,Men's Wear,12701.83,19395.62,2024-01-31,Active
+148,Men's Wear Product 48,Fashion,Men's Wear,11466.7,18775.94,2024-07-26,Discontinued
+149,Footwear Product 49,Fashion,Footwear,8446.96,11114.6,2025-12-08,Active
+150,Women's Wear Product 50,Fashion,Women's Wear,8102.09,9455.91,2026-04-28,Active
+151,Haircare Product 01,Beauty & Personal Care,Haircare,3244.2,3902.39,2024-10-28,Discontinued
+152,Haircare Product 02,Beauty & Personal Care,Haircare,5469.9,8221.4,2025-07-20,Active
+153,Personal Care Product 03,Beauty & Personal Care,Personal Care,3086.74,5030.25,2024-01-12,Active
+154,Skincare Product 04,Beauty & Personal Care,Skincare,6833.92,9320.98,2026-01-26,Active
+155,Skincare Product 05,Beauty & Personal Care,Skincare,2321.77,4011.41,2023-01-26,Active
+156,Skincare Product 06,Beauty & Personal Care,Skincare,5448.68,6609.85,2025-01-21,Active
+157,Personal Care Product 07,Beauty & Personal Care,Personal Care,15522.39,22137.91,2022-04-02,Active
+158,Haircare Product 08,Beauty & Personal Care,Haircare,6518.92,11570.25,2023-03-26,Discontinued
+159,Haircare Product 09,Beauty & Personal Care,Haircare,12642.08,22673.55,2023-09-05,Discontinued
+160,Personal Care Product 10,Beauty & Personal Care,Personal Care,6753.99,7919.95,2026-01-11,Active
+161,Haircare Product 11,Beauty & Personal Care,Haircare,15127.48,21163.06,2022-09-14,Active
+162,Haircare Product 12,Beauty & Personal Care,Haircare,3475.2,5723.16,2024-08-10,Discontinued
+163,Skincare Product 13,Beauty & Personal Care,Skincare,16188.1,21055.05,2024-11-14,Active
+164,Personal Care Product 14,Beauty & Personal Care,Personal Care,10888.1,16354.78,2023-08-24,Active
+165,Haircare Product 15,Beauty & Personal Care,Haircare,11994.93,16518.15,2026-03-22,Active
+166,Haircare Product 16,Beauty & Personal Care,Haircare,12286.15,15698.39,2023-06-28,Active
+167,Haircare Product 17,Beauty & Personal Care,Haircare,5854.86,8493.42,2026-05-10,Active
+168,Skincare Product 18,Beauty & Personal Care,Skincare,12673.04,18515.45,2023-08-07,Active
+169,Skincare Product 19,Beauty & Personal Care,Skincare,12958.18,21404.59,2023-10-20,Discontinued
+170,Personal Care Product 20,Beauty & Personal Care,Personal Care,1969.17,2665.33,2022-08-22,Active
+171,Haircare Product 21,Beauty & Personal Care,Haircare,1127.34,1577.61,2022-05-04,Active
+172,Skincare Product 22,Beauty & Personal Care,Skincare,11684.34,18185.4,2022-01-08,Active
+173,Skincare Product 23,Beauty & Personal Care,Skincare,17913.97,26899.61,2023-03-04,Active
+174,Personal Care Product 24,Beauty & Personal Care,Personal Care,5472.4,8430.88,2025-08-31,Discontinued
+175,Personal Care Product 25,Beauty & Personal Care,Personal Care,8255.99,12604.18,2025-09-27,Active
+176,Skincare Product 26,Beauty & Personal Care,Skincare,903.09,1307.8,2022-06-02,Discontinued
+177,Personal Care Product 27,Beauty & Personal Care,Personal Care,684.04,1087.71,2024-11-24,Active
+178,Personal Care Product 28,Beauty & Personal Care,Personal Care,16027.2,25815.72,2025-12-30,Active
+179,Skincare Product 29,Beauty & Personal Care,Skincare,16235.87,19763.97,2022-01-28,Active
+180,Haircare Product 30,Beauty & Personal Care,Haircare,4135.31,6778.95,2022-12-18,Active
+181,Personal Care Product 31,Beauty & Personal Care,Personal Care,14633.95,26743.7,2022-03-24,Active
+182,Skincare Product 32,Beauty & Personal Care,Skincare,9568.45,12446.28,2022-09-13,Discontinued
+183,Personal Care Product 33,Beauty & Personal Care,Personal Care,7594.75,13643.92,2026-03-25,Active
+184,Haircare Product 34,Beauty & Personal Care,Haircare,2501.53,4015.48,2022-12-17,Active
+185,Haircare Product 35,Beauty & Personal Care,Haircare,5488.35,7252.83,2023-02-02,Active
+186,Personal Care Product 36,Beauty & Personal Care,Personal Care,14607.33,23542.44,2025-08-10,Active
+187,Haircare Product 37,Beauty & Personal Care,Haircare,3216.95,5475.4,2023-02-23,Discontinued
+188,Skincare Product 38,Beauty & Personal Care,Skincare,12837.39,21319.1,2022-10-28,Active
+189,Haircare Product 39,Beauty & Personal Care,Haircare,9383.4,17073.7,2023-08-25,Discontinued
+190,Haircare Product 40,Beauty & Personal Care,Haircare,17288.53,22374.97,2026-01-12,Active
+191,Personal Care Product 41,Beauty & Personal Care,Personal Care,14452.33,26015.04,2026-01-28,Active
+192,Haircare Product 42,Beauty & Personal Care,Haircare,10193.33,13767.27,2025-06-12,Active
+193,Haircare Product 43,Beauty & Personal Care,Haircare,4178.78,6061.49,2022-10-30,Active
+194,Skincare Product 44,Beauty & Personal Care,Skincare,5391.16,6800.61,2025-12-19,Active
+195,Haircare Product 45,Beauty & Personal Care,Haircare,4923.93,8222.46,2025-01-18,Active
+196,Personal Care Product 46,Beauty & Personal Care,Personal Care,2150.49,2967.66,2026-04-18,Active
+197,Skincare Product 47,Beauty & Personal Care,Skincare,14465.07,17474.15,2022-08-28,Active
+198,Personal Care Product 48,Beauty & Personal Care,Personal Care,1947.96,2517.92,2022-11-21,Active
+199,Skincare Product 49,Beauty & Personal Care,Skincare,1219.97,1912.4,2022-11-10,Active
+200,Skincare Product 50,Beauty & Personal Care,Skincare,5968.73,9497.95,2024-04-01,Active
+201,Accessories Product 01,Sports & Outdoors,Accessories,15588.93,20094.19,2024-02-16,Active
+202,Accessories Product 02,Sports & Outdoors,Accessories,14368.92,23440.04,2022-05-18,Active
+203,Sportswear Product 03,Sports & Outdoors,Sportswear,2627.68,3674.95,2023-06-02,Active
+204,Accessories Product 04,Sports & Outdoors,Accessories,3535.37,5326.21,2023-03-23,Active
+205,Sportswear Product 05,Sports & Outdoors,Sportswear,6109.15,11038.96,2026-03-12,Active
+206,Outdoor Gear Product 06,Sports & Outdoors,Outdoor Gear,668.43,974.38,2026-04-15,Active
+207,Outdoor Gear Product 07,Sports & Outdoors,Outdoor Gear,17278.35,25809.37,2025-09-25,Active
+208,Sportswear Product 08,Sports & Outdoors,Sportswear,268.17,318.69,2025-01-18,Discontinued
+209,Accessories Product 09,Sports & Outdoors,Accessories,14567.79,25155.73,2023-07-10,Active
+210,Outdoor Gear Product 10,Sports & Outdoors,Outdoor Gear,8954.7,13187.24,2023-08-04,Active
+211,Outdoor Gear Product 11,Sports & Outdoors,Outdoor Gear,7412.45,11126.32,2025-06-16,Active
+212,Sportswear Product 12,Sports & Outdoors,Sportswear,8829.7,16231.21,2023-07-03,Active
+213,Outdoor Gear Product 13,Sports & Outdoors,Outdoor Gear,1186.06,2060.84,2022-02-11,Active
+214,Fitness Product 14,Sports & Outdoors,Fitness,9332.0,16277.3,2023-12-14,Active
+215,Outdoor Gear Product 15,Sports & Outdoors,Outdoor Gear,17603.86,25114.71,2024-10-17,Discontinued
+216,Fitness Product 16,Sports & Outdoors,Fitness,1604.24,2239.91,2022-07-29,Active
+217,Accessories Product 17,Sports & Outdoors,Accessories,453.23,563.03,2025-10-22,Discontinued
+218,Fitness Product 18,Sports & Outdoors,Fitness,3744.06,6414.58,2023-03-05,Active
+219,Accessories Product 19,Sports & Outdoors,Accessories,6424.6,10070.23,2026-03-16,Active
+220,Sportswear Product 20,Sports & Outdoors,Sportswear,9126.43,14828.82,2024-07-04,Active
+221,Sportswear Product 21,Sports & Outdoors,Sportswear,5679.12,7692.87,2022-09-05,Active
+222,Sportswear Product 22,Sports & Outdoors,Sportswear,6567.38,11793.25,2022-06-02,Active
+223,Sportswear Product 23,Sports & Outdoors,Sportswear,12228.83,21363.68,2025-06-21,Discontinued
+224,Sportswear Product 24,Sports & Outdoors,Sportswear,12756.67,19773.26,2026-02-07,Active
+225,Fitness Product 25,Sports & Outdoors,Fitness,17858.23,25900.79,2024-01-10,Discontinued
+226,Fitness Product 26,Sports & Outdoors,Fitness,16070.33,22903.77,2024-02-06,Active
+227,Fitness Product 27,Sports & Outdoors,Fitness,16725.19,27609.27,2023-04-08,Active
+228,Fitness Product 28,Sports & Outdoors,Fitness,6837.98,10291.29,2024-06-09,Active
+229,Outdoor Gear Product 29,Sports & Outdoors,Outdoor Gear,8410.66,14518.93,2024-01-26,Active
+230,Fitness Product 30,Sports & Outdoors,Fitness,12768.78,16867.49,2024-09-08,Active
+231,Sportswear Product 31,Sports & Outdoors,Sportswear,13262.06,15635.07,2026-03-25,Active
+232,Fitness Product 32,Sports & Outdoors,Fitness,8990.83,16267.55,2023-05-04,Active
+233,Outdoor Gear Product 33,Sports & Outdoors,Outdoor Gear,9777.58,13396.63,2024-05-31,Active
+234,Fitness Product 34,Sports & Outdoors,Fitness,10981.86,13913.1,2026-02-02,Active
+235,Sportswear Product 35,Sports & Outdoors,Sportswear,16176.34,24043.97,2025-05-27,Discontinued
+236,Outdoor Gear Product 36,Sports & Outdoors,Outdoor Gear,6114.15,9735.84,2024-01-20,Active
+237,Accessories Product 37,Sports & Outdoors,Accessories,4382.39,7086.96,2026-04-29,Active
+238,Outdoor Gear Product 38,Sports & Outdoors,Outdoor Gear,17895.98,25470.8,2025-04-26,Discontinued
+239,Sportswear Product 39,Sports & Outdoors,Sportswear,15366.53,28107.68,2025-02-15,Active
+240,Fitness Product 40,Sports & Outdoors,Fitness,14619.58,23348.91,2025-04-02,Active
+241,Fitness Product 41,Sports & Outdoors,Fitness,3729.9,6554.17,2026-03-06,Active
+242,Fitness Product 42,Sports & Outdoors,Fitness,6264.27,7968.23,2022-05-22,Active
+243,Sportswear Product 43,Sports & Outdoors,Sportswear,2856.5,3931.27,2026-05-18,Active
+244,Fitness Product 44,Sports & Outdoors,Fitness,5868.78,10219.63,2025-11-04,Active
+245,Fitness Product 45,Sports & Outdoors,Fitness,11257.09,18007.51,2025-11-12,Discontinued
+246,Fitness Product 46,Sports & Outdoors,Fitness,13933.6,21208.81,2026-02-17,Active
+247,Accessories Product 47,Sports & Outdoors,Accessories,6206.48,11271.3,2026-03-15,Active
+248,Fitness Product 48,Sports & Outdoors,Fitness,4741.82,8716.4,2025-12-23,Discontinued
+249,Fitness Product 49,Sports & Outdoors,Fitness,7657.8,10902.37,2024-05-22,Discontinued
+250,Fitness Product 50,Sports & Outdoors,Fitness,5833.57,8126.2,2026-05-19,Discontinued
+251,Stationery Product 01,Books & Stationery,Stationery,4893.64,6351.91,2022-04-10,Active
+252,Stationery Product 02,Books & Stationery,Stationery,13171.79,17724.77,2023-04-21,Active
+253,Books Product 03,Books & Stationery,Books,15410.78,27958.86,2022-07-10,Active
+254,Books Product 04,Books & Stationery,Books,17126.36,21206.18,2025-01-04,Active
+255,Stationery Product 05,Books & Stationery,Stationery,942.91,1513.15,2024-03-04,Active
+256,Office Supplies Product 06,Books & Stationery,Office Supplies,16581.77,20571.01,2025-03-07,Discontinued
+257,Books Product 07,Books & Stationery,Books,11060.75,12841.54,2022-11-27,Discontinued
+258,Books Product 08,Books & Stationery,Books,4476.29,5732.87,2023-02-02,Active
+259,Books Product 09,Books & Stationery,Books,13210.04,22335.45,2022-05-29,Active
+260,Office Supplies Product 10,Books & Stationery,Office Supplies,13487.62,20701.46,2022-02-28,Active
+261,Books Product 11,Books & Stationery,Books,13838.56,19578.7,2025-09-02,Discontinued
+262,Office Supplies Product 12,Books & Stationery,Office Supplies,593.16,834.12,2025-05-29,Active
+263,Office Supplies Product 13,Books & Stationery,Office Supplies,4260.7,6131.25,2025-05-09,Active
+264,Office Supplies Product 14,Books & Stationery,Office Supplies,17050.34,20236.82,2024-09-24,Active
+265,Stationery Product 15,Books & Stationery,Stationery,6246.33,9689.97,2023-01-20,Active
+266,Books Product 16,Books & Stationery,Books,7747.32,10161.16,2026-04-04,Active
+267,Stationery Product 17,Books & Stationery,Stationery,15477.01,22783.18,2024-02-13,Discontinued
+268,Stationery Product 18,Books & Stationery,Stationery,3273.23,3886.28,2022-09-01,Active
+269,Office Supplies Product 19,Books & Stationery,Office Supplies,13702.11,19287.75,2024-06-18,Discontinued
+270,Stationery Product 20,Books & Stationery,Stationery,13371.61,16310.74,2023-05-18,Active
+271,Stationery Product 21,Books & Stationery,Stationery,729.35,1044.77,2026-01-20,Active
+272,Office Supplies Product 22,Books & Stationery,Office Supplies,4377.22,5222.64,2026-04-11,Active
+273,Office Supplies Product 23,Books & Stationery,Office Supplies,16826.12,20782.25,2024-04-05,Discontinued
+274,Stationery Product 24,Books & Stationery,Stationery,13194.56,19498.3,2025-06-24,Active
+275,Office Supplies Product 25,Books & Stationery,Office Supplies,15157.8,17628.58,2026-04-23,Discontinued
+276,Stationery Product 26,Books & Stationery,Stationery,4435.85,6256.86,2025-07-20,Active
+277,Books Product 27,Books & Stationery,Books,15980.27,21669.81,2022-05-12,Discontinued
+278,Office Supplies Product 28,Books & Stationery,Office Supplies,14541.7,25872.4,2024-06-15,Active
+279,Books Product 29,Books & Stationery,Books,17784.61,25779.64,2022-08-23,Active
+280,Books Product 30,Books & Stationery,Books,10688.7,13395.48,2022-11-23,Active
+281,Books Product 31,Books & Stationery,Books,10096.84,13758.67,2024-04-20,Active
+282,Books Product 32,Books & Stationery,Books,3438.76,4246.03,2025-12-29,Active
+283,Books Product 33,Books & Stationery,Books,5238.51,9464.54,2026-01-10,Discontinued
+284,Office Supplies Product 34,Books & Stationery,Office Supplies,15764.98,20224.32,2024-03-10,Active
+285,Books Product 35,Books & Stationery,Books,13420.47,22627.98,2023-06-19,Discontinued
+286,Office Supplies Product 36,Books & Stationery,Office Supplies,16744.09,23335.18,2024-04-20,Active
+287,Books Product 37,Books & Stationery,Books,267.13,366.35,2023-09-28,Active
+288,Books Product 38,Books & Stationery,Books,9745.87,13198.0,2025-02-12,Active
+289,Stationery Product 39,Books & Stationery,Stationery,8176.5,14714.81,2022-06-15,Active
+290,Stationery Product 40,Books & Stationery,Stationery,11835.5,16154.77,2024-08-20,Active
+291,Office Supplies Product 41,Books & Stationery,Office Supplies,8603.45,15706.74,2025-02-18,Active
+292,Books Product 42,Books & Stationery,Books,5569.66,8578.7,2023-10-08,Active
+293,Stationery Product 43,Books & Stationery,Stationery,10508.58,17469.77,2023-04-12,Active
+294,Office Supplies Product 44,Books & Stationery,Office Supplies,8683.84,15796.53,2022-06-29,Discontinued
+295,Office Supplies Product 45,Books & Stationery,Office Supplies,9306.83,16194.71,2024-07-20,Discontinued
+296,Office Supplies Product 46,Books & Stationery,Office Supplies,1116.75,1453.02,2022-05-08,Active
+297,Books Product 47,Books & Stationery,Books,3174.94,5598.81,2022-09-21,Active
+298,Books Product 48,Books & Stationery,Books,17000.24,25186.2,2022-01-04,Active
+299,Office Supplies Product 49,Books & Stationery,Office Supplies,9174.02,15030.56,2023-07-20,Active
+300,Books Product 50,Books & Stationery,Books,15013.43,20822.87,2023-11-06,Active

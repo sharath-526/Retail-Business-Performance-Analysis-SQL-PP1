@@ -1,0 +1,13 @@
+store_id,store_name,city,state,region,store_status
+1,Bengaluru Central Store,Bengaluru,Karnataka,South,Active
+2,Chennai Central Store,Chennai,Tamil Nadu,South,Active
+3,Hyderabad Central Store,Hyderabad,Telangana,South,Active
+4,Kochi Central Store,Kochi,Kerala,South,Active
+5,Mumbai Central Store,Mumbai,Maharashtra,West,Active
+6,Pune Central Store,Pune,Maharashtra,West,Active
+7,Ahmedabad Central Store,Ahmedabad,Gujarat,West,Active
+8,Jaipur Central Store,Jaipur,Rajasthan,North,Active
+9,Delhi Central Store,Delhi,Delhi,North,Active
+10,Lucknow Central Store,Lucknow,Uttar Pradesh,North,Active
+11,Kolkata Central Store,Kolkata,West Bengal,East,Active
+12,Bhubaneswar Central Store,Bhubaneswar,Odisha,East,Active
